@@ -73,6 +73,9 @@ Verificação de funcionamento da página..
 Criação e edição de imagens  para produtos.
 Testes para captura de dados cadastrados através do formulário.
 
+Conclusão da Sprint 01
+Relatório.
+https://cartonagem-unica.atlassian.net/browse/SCRUM-32
 
 
 
